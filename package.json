@@ -1,7 +1,7 @@
 {
   "name": "remark-openai",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A remark plugin to use code blocks as placeholder for generated content from openai",
   "author": "Julien Barbay <julien.barbay@gmail.com>",
   "main": "index.mjs",
