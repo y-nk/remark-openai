@@ -16,6 +16,9 @@
     "markdown",
     "content"
   ],
+  "scripts": {
+    "postversion": "git push --follow-tags"
+  },
   "license": "ISC",
   "dependencies": {
     "json5": "^2.2.3",
